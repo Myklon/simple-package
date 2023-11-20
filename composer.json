@@ -1,0 +1,16 @@
+{
+    "name": "myklon/simple-package",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Myklon\\SimplePackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NikitaIllarionov",
+            "email": "livroklon@gmail.com"
+        }
+    ],
+    "require": {}
+}
