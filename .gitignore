@@ -1,5 +1,6 @@
 /.idea
 /nginx
 /fpm
-docker-compose.yml
 /vendor/
+docker-compose.yml
+composer.lock

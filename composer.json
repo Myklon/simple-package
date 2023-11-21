@@ -1,6 +1,6 @@
 {
     "name": "myklon/simple-package",
-    "type": "project",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Myklon\\SimplePackage\\": "src/"
@@ -12,5 +12,7 @@
             "email": "livroklon@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.4"
+    }
 }
